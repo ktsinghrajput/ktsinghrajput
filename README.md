@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ktsinghrajput" target="blank"><img src="https://img.shields.io/twitter/follow/ktsinghrajput?logo=twitter&style=for-the-badge" alt="ktsinghrajput" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end, DSA**
+- 🌱 I’m currently learning **MERN Stack, DSA**
 
 - 📫 How to reach me **iamkumartushar@gmail.com**
 
